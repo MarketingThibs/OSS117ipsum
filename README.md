@@ -11,7 +11,7 @@ Pour les fans d'OSS 117 : utilisez **OSS117psum** comme nouvel outil de *lorem i
     - `OSS 2 Paragraphes avec dialogue`
     - `OSS 3 Paragraphes`
     - `OSS 1 phrase`
-- Collez simplement le OSS117psun où vous voulez. 
+- Collez simplement le OSS117psum où vous voulez. 
 
 ## Release Notes
 
