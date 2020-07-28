@@ -17,7 +17,7 @@
     },
 	"license": "SEE LICENSE IN LICENSE.txt",
 	"keywords":["OSS","117","OSS117","ipsum","lorem"],
-	"version": "0.0.1",
+	"version": "0.0.",
 	"engines": {
 		"vscode": "^1.47.0"
 	},

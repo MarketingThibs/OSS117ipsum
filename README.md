@@ -13,9 +13,13 @@ Pour les fans d'OSS 117 : utilisez **OSS117psum** comme nouvel outil de *lorem i
     - `OSS 1 phrase`
 - Collez simplement le OSS117psum où vous voulez. 
 
+## Demo
+
+![oss117psum](oss117psum.gif)
+
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 - Initial release
 
